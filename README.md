@@ -10,7 +10,7 @@ I created it to use with DOS in VirtualBox, but it should work on any machine wi
 sd -r
 ```
 
-Or you can use the reboot command to have the same effect.
+Or you can use the `reboot` command to have the same effect.
 
 ```console
 reboot
@@ -22,7 +22,7 @@ reboot
 sd -h
 ```
 
-Or you can use the quit command.
+Or you can use the `quit` command.
 
 ```console
 quit
