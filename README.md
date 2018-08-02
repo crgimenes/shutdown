@@ -10,10 +10,24 @@ I created it to use with DOS in VirtualBox, but it should work on any machine wi
 sd -r
 ```
 
+Or you can use the reboot command to have the same effect.
+
+```console
+reboot
+```
+
 ## Halt
 
 ```console
 sd -h
 ```
 
-[Download binary](./sd.com)
+Or you can use the quit command.
+
+```console
+quit
+```
+
+---
+
+[download the binaries](./sd.zip)
