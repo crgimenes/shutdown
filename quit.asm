@@ -36,6 +36,6 @@ APM_error: mov  dx, msgAPMError
 exitError: mov  ax, 4CFFh
            int  21h
 
-msgAPMError db "APM error or not available",0
+msgAPMError db "APM error or not available$"
 
 .end
